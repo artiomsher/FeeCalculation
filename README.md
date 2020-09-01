@@ -1,6 +1,7 @@
 Instructions to run the script:
 
 -Program
+
 go through the console to src/Service directory
 
 execute 'php Script.php input.csv' command to run the program with the file
